@@ -17,6 +17,6 @@ html {
   bottom:40px;
 }
 }
-@media (mix-width:1196px) {
+@media (max-width:1196px) {
   
 }
