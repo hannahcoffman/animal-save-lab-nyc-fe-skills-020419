@@ -20,6 +20,7 @@ html {
 @media (max-width:1196px) {
   #bear {
   position:relative;
+  width:800px;
 }
   
 }
