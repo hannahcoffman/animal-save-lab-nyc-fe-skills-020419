@@ -12,9 +12,9 @@ html {
 @media (min-width:786px) {
 #bear {
   position:absolute;
-  width:auto;
   margin-top:82px;
   margin-right:4px;
+  bottom:40px;
 }
 }
 @media (mix-width:1100px) {
