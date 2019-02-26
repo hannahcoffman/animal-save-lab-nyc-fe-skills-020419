@@ -9,7 +9,7 @@ html {
 }
 
 /* Write your solution here */
-@media (min-width:786px) {
+@media (min-width:800px) {
 #bear {
   position:absolute;
   margin-top:82px;
@@ -17,6 +17,6 @@ html {
   bottom:40px;
 }
 }
-@media (mix-width:1100px) {
+@media (mix-width:1196px) {
   
 }
